@@ -1,5 +1,3 @@
-# Top 5 Customers in the Top 5 Cities in the top 10 Countries
-
 --top 5 cities in the top 10 countries
 WITH TopCitiesOfTopCountries_CTE AS (
     SELECT 
